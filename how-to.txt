@@ -1,5 +1,9 @@
 how-to
 -----------------------------------
+1) Login to http://github.com through browser
+2) Create repository
+3) Follow the instruction
+
 $ mkdir CheatSheet
 $ cd CheatSheet
 $ git init
