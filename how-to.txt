@@ -1,5 +1,17 @@
 how-to
 -----------------------------------
+
+New Machine
+-----------------------------------
+1) Go https://github.com/androidzaurus
+2) Login
+3) Click Edit Your Profile
+4) SSH Public Keys
+5) Add another public key
+6) Follow instruction on http://help.github.com/linux-set-up-git/
+
+New Repository
+-----------------------------------
 1) Login to http://github.com through browser
 2) Create repository
 3) Follow the instruction
