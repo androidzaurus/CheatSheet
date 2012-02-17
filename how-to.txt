@@ -30,4 +30,7 @@ modify
 $ git commit -a
 $ git push
 
+fork and clone
+-----------------------------------
+$ git clone git@github.com:androidzaurus/OpenAccessoryDemo.git
 
