@@ -34,3 +34,18 @@ fork and clone
 -----------------------------------
 $ git clone git@github.com:androidzaurus/OpenAccessoryDemo.git
 
+Push to current files to a new repository
+-----------------------------------------
+1) Login to http://github.com through browser
+2) Create repository
+3) Follow the instruction
+
+$ cd hoge/fuga
+$ git init
+$ git remote add origin git@github.com:androidzaurus/CreatedRepo.git
+$ git pull git@github.com:androidzaurus/CreatedRepo.git
+$ touch README
+$ git add README
+$ git commit -m 'Empty README'
+$ git push origin master
+
